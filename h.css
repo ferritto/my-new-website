@@ -1,0 +1,35 @@
+button{
+    padding: 14px 40px;
+    color: black;
+    border-radius: 20px;
+    border: 0px;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background-color:white;
+    box-shadow: whitesmoke 0px 7px 29px 0px;
+}
+button:hover{
+    letter-spacing: 3px;
+    background-color: orangered;
+    color: white;
+    box-shadow: orangered 0px 7px 29px 0px;
+
+}
+button:active{
+    letter-spacing: 3px;
+    background-color: orangered;
+    color: white;
+    box-shadow: orangered 0px 7px 29px 0px;
+    transform: translateY(10px);
+}
+
+marquee{
+    background-color: orange;
+    color:white;
+    box-shadow: orange 0px 7px 30px 0px;
+}
+body{
+    background-color: green;
+    text-align: center;   
+}
